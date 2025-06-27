@@ -9,7 +9,7 @@
 ## 🔗 Access
 
 - **Dataset Repository**: [https://github.com/ChenchenMobility/CYPORT.git](https://github.com/ChenchenMobility/CYPORT.git)  
-- **Interactive GEE App**: [CyPort Google Earth Engine Viewer](https://CyPort-dataset.users.earthengine.app/view/CyPort)
+- **Interactive GEE App**: [CyPort Google Earth Engine Viewer](https://CyPort-dataset.users.earthengine.app/view/cyport)
 
 ---
 
