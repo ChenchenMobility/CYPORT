@@ -44,14 +44,21 @@ CyPort includes two core components:
 
 ---
 
-## 📋 Data Description
+## 📋 Data Sources
 
 The table below summarizes key data types, descriptions, and sources:
 
-![Table A-1. Data Description](./figures/table_a1.png)
+## Table A-1. CyPort Data Sources Description
 
-> **Table A-1**: Description of CyPort data sources and variables, including AIS-based port calls, meteorological observations during cyclones, and resilience-related metrics.
-
+| **Scope**            | **Data Types**                  | **Description**                                                                                     | **Sources**                                                                                                                                     |
+|----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Baseline Data**     | Port Daily Vessel Counts         | Daily commercial vessel counts for U.S. principal ports from 2015 to 2023                           | AIS Data (Marine Cadastre., 2024)                                                                                                               |
+|                      | Vessel Trajectories (Port Calls) | Sequential port call records for all commercial vessels (cargo and tanker)                          | AIS Data (Marine Cadastre., 2024)                                                                                                               |
+|                      | Port Characteristics             | Includes port statistical areas, trade attributes for 145 principal U.S. ports, local census data, and infrastructure | USAGE (2021); USDOT BTS (2022); U.S. Census (2021); CEJST (2022); OpenStreetMap (2024)                         |
+| **Cyclone-period Data** | Cyclone Records                  | Tropical cyclone intensity, distance to port, and exposure time window                               | IBTrACS (NOAA, 2024a)                                                                                                                            |
+|                      | Meteorological Data              | Water level, storm surge height, rainfall, and wind speed during TCs, from nearest gauges and stations | CO-OPS (2024); ASOS (NOAA, 2024b)                                                                                                                |
+|                      | Port Network Centralities        | Port’s degree, betweenness, and closeness centrality in recent weekly freight networks               | -                                                                                                                                                |
+|                      | Resilience Metrics               | Metrics based on resilience curves and complex network features                                      | -                                                                                                                                                |
 ---
 
 ## 📖 Citation
