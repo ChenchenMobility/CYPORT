@@ -30,13 +30,13 @@ CyPort includes two core components:
 
 ---
 
-## 🧭 Dataset Structure
-
 ![CyPort Dataset Components](./figures/cyport_overview.png)
 
 > **Figure 1**: Four main data blocks—baseline port activity, cyclone exposures, disruption assessments, and static port characteristics—form the CyPort dataset.
 
 ---
+
+## 🧭 Dataset Structure
 
 ![Data Compilation Process](./figures/data_pipeline.png)
 
