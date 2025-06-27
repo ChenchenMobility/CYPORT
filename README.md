@@ -1,6 +1,6 @@
 # CyPort: A Unified Dataset for Port Disruption Analysis under Tropical Cyclones
 
-[![GEE App](https://img.shields.io/badge/GEE-App-green)](https://CyPort-dataset.users.earthengine.app/view/CyPort)
+[![GEE App](https://img.shields.io/badge/GEE-App-green)](https://CyPort-dataset.users.earthengine.app/view/cyport)
 
 **CyPort** is a comprehensive, multimodal dataset designed to support the analysis of port–cyclone interactions and freight network resilience. It integrates port operations, vessel trajectories, tropical cyclone exposures, meteorological conditions, and network-based disruption assessments.
 
