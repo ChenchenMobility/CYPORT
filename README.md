@@ -58,7 +58,7 @@ The table below summarizes key data types, descriptions, and sources:
 
 Please cite the forthcoming paper when using the dataset:
 
-> Kuai, C., et al. _"CyPort: A Multimodal Dataset for Cyclone-Induced Port Disruption and Resilience Analysis."_ (Under Review, 2025).
+> Kuai, C., et al. _"U.S. Port Disruptions under Tropical Cyclones: Multi-Source Dataset and Resilience Analysis."_ (Under Review, 2025).
 
 ---
 
