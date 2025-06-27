@@ -48,7 +48,7 @@ CyPort includes two core components:
 
 The table below summarizes key data types, descriptions, and sources:
 
-## Table A-1. CyPort Data Sources Description
+> **Table 1**: CyPort Data Sources Description
 
 | **Scope**            | **Data Types**                  | **Description**                                                                                     | **Sources**                                                                                                                                     |
 |----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
