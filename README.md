@@ -63,9 +63,24 @@ The table below summarizes key data types, descriptions, and sources:
 
 ## 📖 Citation
 
-Please cite the forthcoming paper when using the dataset:
+If you find this work or dataset helpful, please cite:
 
-> Kuai, C., et al. _"U.S. Port Disruptions under Tropical Cyclones: Multi-Source Dataset and Resilience Analysis."_ (Under Review, 2025).
+> Kuai, C., Li, Z., Zhang, Y., Wang, X. B., Lord, D., & Zhou, Y. _U.S. port disruptions under tropical cyclones: Resilience analysis by harnessing multiple-source dataset._ Transportation Research Part D: Transport and Environment, 157, 105420, 2026. https://doi.org/10.1016/j.trd.2026.105420
+
+BibTeX:
+
+```bibtex
+@article{kuai2026usportdisruptions,
+  title = {U.S. port disruptions under tropical cyclones: Resilience analysis by harnessing multiple-source dataset},
+  author = {Kuai, Chenchen and Li, Zihao and Zhang, Yunlong and Wang, Xiubin Bruce and Lord, Dominique and Zhou, Yang},
+  journal = {Transportation Research Part D: Transport and Environment},
+  volume = {157},
+  pages = {105420},
+  year = {2026},
+  doi = {10.1016/j.trd.2026.105420},
+  url = {https://doi.org/10.1016/j.trd.2026.105420}
+}
+```
 
 ---
 
